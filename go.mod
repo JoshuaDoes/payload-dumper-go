@@ -1,4 +1,4 @@
-module github.com/ssut/payload-dumper-go
+module github.com/JoshuaDoes/payload-dumper-go
 
 go 1.14
 
